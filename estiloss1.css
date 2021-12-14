@@ -1,0 +1,22 @@
+body{ background:url(https://p4.wallpaperbetter.com/wallpaper/886/638/359/photography-landscape-nature-morning-wallpaper-preview.jpg);   
+    -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;}
+
+header{
+    width:1050px;
+    padding:17px;
+    border-radius:17px;
+    margin:auto;
+    background-color:green;
+    background:url(https://argindar.com/wp-content/uploads/2016/12/Paisai-txuriak-Piasajes-Blancos-3.jpg); 
+     -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+label {display: block; width: 300px;}
+
+lapso {display: block; float: left;}
