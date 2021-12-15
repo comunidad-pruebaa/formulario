@@ -17,6 +17,10 @@ header{
 background-size: cover;
 }
 
+button{
+   transform: scale(1.0);
+}
+
 label {display: block; width: 300px;}
 
 lapso {display: block; float: left;}
